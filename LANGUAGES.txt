@@ -1,0 +1,49 @@
+Ada
+ALGOL
+Assembly Language
+B
+BASIC
+Brainfuck
+C
+C--
+C#
+C++
+COBOL
+CSS
+    -Tailwind
+    -Bootstrap
+Dart
+    -Flutter
+Fortran
+Go
+HTML
+Java
+JavaScript
+    -React
+    -Vue
+    -Angular
+    -Express
+    -Three
+Kotlin
+Lisp
+Machine Language
+Malbolge
+MATLAB
+New B
+Pascal
+Perl
+PHP
+Python
+    -Django
+    -Flask
+QBasic
+R
+Ruby
+    -Ruby on Rails
+Rust
+Solidity
+SQL
+Swift
+TypeScript
+Visual Basic
+XML
